@@ -1,4 +1,4 @@
-# NeuReck
+# NeuRack
 
 AI 기반 강아지 품종 인식 및 커뮤니티 플랫폼을 개발하는 팀 조직입니다.
 
@@ -8,7 +8,7 @@ AI 기반 강아지 품종 인식 및 커뮤니티 플랫폼을 개발하는 팀
 
 ## 레포지토리
 
-### [dog-ai-agent_mvp](https://github.com/NeuReck/dog-ai-agent_mvp)
+### [dog-ai-agent_mvp](https://github.com/NeuRack/dog-ai-agent_mvp)
 
 메인 MVP 애플리케이션. 프론트엔드, 백엔드, AI 서비스가 모노레포로 구성되어 있습니다.
 
